@@ -1,0 +1,17 @@
+{
+  "name":"test",
+  "version":"1.0.0",
+  "description":"Test  code",
+  "main":"index.js",
+  "dependencies":
+  {
+    "Protractor":"5.6.0",
+    "jasmine":"3.1.0"
+  },
+  "scripts":
+  {
+    "test":"echo\"error:node test specified\" && exit 1"
+  },
+  "author":"Test",
+  "License":"ISC"
+}
